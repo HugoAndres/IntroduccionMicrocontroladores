@@ -1,0 +1,2 @@
+@ECHO OFF
+"C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\avrasm2.exe" -S "C:\Users\hugoa\Desktop\Intro_Micro\Ejercicios en clase\dec0F\labels.tmp" -fI -W+ie -C V2E -o "C:\Users\hugoa\Desktop\Intro_Micro\Ejercicios en clase\dec0F\dec0F.hex" -d "C:\Users\hugoa\Desktop\Intro_Micro\Ejercicios en clase\dec0F\dec0F.obj" -e "C:\Users\hugoa\Desktop\Intro_Micro\Ejercicios en clase\dec0F\dec0F.eep" -m "C:\Users\hugoa\Desktop\Intro_Micro\Ejercicios en clase\dec0F\dec0F.map" "C:\Users\hugoa\Desktop\Intro_Micro\Ejercicios en clase\dec0F\dec0F.asm"

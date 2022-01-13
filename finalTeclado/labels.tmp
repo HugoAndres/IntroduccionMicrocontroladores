@@ -1,0 +1,49 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.42</VERSION>
+ <DEVICE>ATmega8535</DEVICE>
+ <WORKING_DIR>C:\Users\hugoa\Desktop\Intro_Micro\Ejercicios en clase\finalTeclado</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes</DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\hugoa\Desktop\Intro_Micro\Ejercicios en clase\finalTeclado\finalTeclado.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes\m8535def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\hugoa\Desktop\Intro_Micro\Ejercicios en clase\finalTeclado\finalTeclado.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>C:\Users\hugoa\Desktop\Intro_Micro\Ejercicios en clase\finalTeclado\finalTeclado.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>C:\Users\hugoa\Desktop\Intro_Micro\Ejercicios en clase\finalTeclado\finalTeclado.map</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <reset><FILE>C:\Users\hugoa\Desktop\Intro_Micro\Ejercicios en clase\finalTeclado\finalTeclado.asm</FILE><LINE>35</LINE></reset>
+  <main><FILE>C:\Users\hugoa\Desktop\Intro_Micro\Ejercicios en clase\finalTeclado\finalTeclado.asm</FILE><LINE>41</LINE></main>
+  <mueve><FILE>C:\Users\hugoa\Desktop\Intro_Micro\Ejercicios en clase\finalTeclado\finalTeclado.asm</FILE><LINE>92</LINE></mueve>
+  <borra><FILE>C:\Users\hugoa\Desktop\Intro_Micro\Ejercicios en clase\finalTeclado\finalTeclado.asm</FILE><LINE>188</LINE></borra>
+  <barre><FILE>C:\Users\hugoa\Desktop\Intro_Micro\Ejercicios en clase\finalTeclado\finalTeclado.asm</FILE><LINE>79</LINE></barre>
+  <config_io><FILE>C:\Users\hugoa\Desktop\Intro_Micro\Ejercicios en clase\finalTeclado\finalTeclado.asm</FILE><LINE>59</LINE></config_io>
+  <texto0><FILE>C:\Users\hugoa\Desktop\Intro_Micro\Ejercicios en clase\finalTeclado\finalTeclado.asm</FILE><LINE>76</LINE></texto0>
+  <opuno><FILE>C:\Users\hugoa\Desktop\Intro_Micro\Ejercicios en clase\finalTeclado\finalTeclado.asm</FILE><LINE>54</LINE></opuno>
+  <opdos><FILE>C:\Users\hugoa\Desktop\Intro_Micro\Ejercicios en clase\finalTeclado\finalTeclado.asm</FILE><LINE>87</LINE></opdos>
+  <LA><FILE>C:\Users\hugoa\Desktop\Intro_Micro\Ejercicios en clase\finalTeclado\finalTeclado.asm</FILE><LINE>139</LINE></LA>
+  <LCERO><FILE>C:\Users\hugoa\Desktop\Intro_Micro\Ejercicios en clase\finalTeclado\finalTeclado.asm</FILE><LINE>143</LINE></LCERO>
+  <LIGUAL><FILE>C:\Users\hugoa\Desktop\Intro_Micro\Ejercicios en clase\finalTeclado\finalTeclado.asm</FILE><LINE>146</LINE></LIGUAL>
+  <LMAS><FILE>C:\Users\hugoa\Desktop\Intro_Micro\Ejercicios en clase\finalTeclado\finalTeclado.asm</FILE><LINE>149</LINE></LMAS>
+  <LUNO><FILE>C:\Users\hugoa\Desktop\Intro_Micro\Ejercicios en clase\finalTeclado\finalTeclado.asm</FILE><LINE>152</LINE></LUNO>
+  <LDOS><FILE>C:\Users\hugoa\Desktop\Intro_Micro\Ejercicios en clase\finalTeclado\finalTeclado.asm</FILE><LINE>155</LINE></LDOS>
+  <LTRES><FILE>C:\Users\hugoa\Desktop\Intro_Micro\Ejercicios en clase\finalTeclado\finalTeclado.asm</FILE><LINE>158</LINE></LTRES>
+  <LMENOS><FILE>C:\Users\hugoa\Desktop\Intro_Micro\Ejercicios en clase\finalTeclado\finalTeclado.asm</FILE><LINE>161</LINE></LMENOS>
+  <LCUATRO><FILE>C:\Users\hugoa\Desktop\Intro_Micro\Ejercicios en clase\finalTeclado\finalTeclado.asm</FILE><LINE>164</LINE></LCUATRO>
+  <LCINCO><FILE>C:\Users\hugoa\Desktop\Intro_Micro\Ejercicios en clase\finalTeclado\finalTeclado.asm</FILE><LINE>167</LINE></LCINCO>
+  <LSEIS><FILE>C:\Users\hugoa\Desktop\Intro_Micro\Ejercicios en clase\finalTeclado\finalTeclado.asm</FILE><LINE>170</LINE></LSEIS>
+  <LPOR><FILE>C:\Users\hugoa\Desktop\Intro_Micro\Ejercicios en clase\finalTeclado\finalTeclado.asm</FILE><LINE>173</LINE></LPOR>
+  <LSIETE><FILE>C:\Users\hugoa\Desktop\Intro_Micro\Ejercicios en clase\finalTeclado\finalTeclado.asm</FILE><LINE>176</LINE></LSIETE>
+  <LOCHO><FILE>C:\Users\hugoa\Desktop\Intro_Micro\Ejercicios en clase\finalTeclado\finalTeclado.asm</FILE><LINE>179</LINE></LOCHO>
+  <LNUEVE><FILE>C:\Users\hugoa\Desktop\Intro_Micro\Ejercicios en clase\finalTeclado\finalTeclado.asm</FILE><LINE>182</LINE></LNUEVE>
+  <LENTRE><FILE>C:\Users\hugoa\Desktop\Intro_Micro\Ejercicios en clase\finalTeclado\finalTeclado.asm</FILE><LINE>185</LINE></LENTRE>
+  <suelta><FILE>C:\Users\hugoa\Desktop\Intro_Micro\Ejercicios en clase\finalTeclado\finalTeclado.asm</FILE><LINE>134</LINE></suelta>
+ </LABELS>
+</ASSEMBLER_INFO>

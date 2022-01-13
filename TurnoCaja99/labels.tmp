@@ -1,0 +1,39 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.42</VERSION>
+ <DEVICE>ATmega8535</DEVICE>
+ <WORKING_DIR>C:\Users\hugoa\Desktop\Intro_Micro\Ejercicios en clase\TurnoCaja99</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes</DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\hugoa\Desktop\Intro_Micro\Ejercicios en clase\TurnoCaja99\TurnoCaja99.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes\m8535def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\hugoa\Desktop\Intro_Micro\Ejercicios en clase\TurnoCaja99\TurnoCaja99.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>C:\Users\hugoa\Desktop\Intro_Micro\Ejercicios en clase\TurnoCaja99\TurnoCaja99.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>C:\Users\hugoa\Desktop\Intro_Micro\Ejercicios en clase\TurnoCaja99\TurnoCaja99.map</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <reset><FILE>C:\Users\hugoa\Desktop\Intro_Micro\Ejercicios en clase\TurnoCaja99\TurnoCaja99.asm</FILE><LINE>19</LINE></reset>
+  <main><FILE>C:\Users\hugoa\Desktop\Intro_Micro\Ejercicios en clase\TurnoCaja99\TurnoCaja99.asm</FILE><LINE>23</LINE></main>
+  <barre><FILE>C:\Users\hugoa\Desktop\Intro_Micro\Ejercicios en clase\TurnoCaja99\TurnoCaja99.asm</FILE><LINE>77</LINE></barre>
+  <fin><FILE>C:\Users\hugoa\Desktop\Intro_Micro\Ejercicios en clase\TurnoCaja99\TurnoCaja99.asm</FILE><LINE>65</LINE></fin>
+  <cj1><FILE>C:\Users\hugoa\Desktop\Intro_Micro\Ejercicios en clase\TurnoCaja99\TurnoCaja99.asm</FILE><LINE>93</LINE></cj1>
+  <cj2><FILE>C:\Users\hugoa\Desktop\Intro_Micro\Ejercicios en clase\TurnoCaja99\TurnoCaja99.asm</FILE><LINE>95</LINE></cj2>
+  <cj3><FILE>C:\Users\hugoa\Desktop\Intro_Micro\Ejercicios en clase\TurnoCaja99\TurnoCaja99.asm</FILE><LINE>97</LINE></cj3>
+  <cj4><FILE>C:\Users\hugoa\Desktop\Intro_Micro\Ejercicios en clase\TurnoCaja99\TurnoCaja99.asm</FILE><LINE>99</LINE></cj4>
+  <cj5><FILE>C:\Users\hugoa\Desktop\Intro_Micro\Ejercicios en clase\TurnoCaja99\TurnoCaja99.asm</FILE><LINE>101</LINE></cj5>
+  <dos><FILE>C:\Users\hugoa\Desktop\Intro_Micro\Ejercicios en clase\TurnoCaja99\TurnoCaja99.asm</FILE><LINE>78</LINE></dos>
+  <nvo><FILE>C:\Users\hugoa\Desktop\Intro_Micro\Ejercicios en clase\TurnoCaja99\TurnoCaja99.asm</FILE><LINE>89</LINE></nvo>
+  <salir><FILE>C:\Users\hugoa\Desktop\Intro_Micro\Ejercicios en clase\TurnoCaja99\TurnoCaja99.asm</FILE><LINE>87</LINE></salir>
+  <ideco><FILE>C:\Users\hugoa\Desktop\Intro_Micro\Ejercicios en clase\TurnoCaja99\TurnoCaja99.asm</FILE><LINE>103</LINE></ideco>
+  <increm><FILE>C:\Users\hugoa\Desktop\Intro_Micro\Ejercicios en clase\TurnoCaja99\TurnoCaja99.asm</FILE><LINE>109</LINE></increm>
+  <et1><FILE>C:\Users\hugoa\Desktop\Intro_Micro\Ejercicios en clase\TurnoCaja99\TurnoCaja99.asm</FILE><LINE>111</LINE></et1>
+  <ipht><FILE>C:\Users\hugoa\Desktop\Intro_Micro\Ejercicios en clase\TurnoCaja99\TurnoCaja99.asm</FILE><LINE>129</LINE></ipht>
+ </LABELS>
+</ASSEMBLER_INFO>

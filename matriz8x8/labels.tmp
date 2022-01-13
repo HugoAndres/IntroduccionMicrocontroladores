@@ -1,0 +1,40 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.42</VERSION>
+ <DEVICE>ATmega8535</DEVICE>
+ <WORKING_DIR>C:\Users\hugoa\Desktop\Intro_Micro\Ejercicios en clase\matriz8x8</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes</DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\hugoa\Desktop\Intro_Micro\Ejercicios en clase\matriz8x8\matriz8x8.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes\m8535def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\hugoa\Desktop\Intro_Micro\Ejercicios en clase\matriz8x8\matriz8x8.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>C:\Users\hugoa\Desktop\Intro_Micro\Ejercicios en clase\matriz8x8\matriz8x8.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>C:\Users\hugoa\Desktop\Intro_Micro\Ejercicios en clase\matriz8x8\matriz8x8.map</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <main><FILE>C:\Users\hugoa\Desktop\Intro_Micro\Ejercicios en clase\matriz8x8\matriz8x8.asm</FILE><LINE>20</LINE></main>
+  <loop1><FILE>C:\Users\hugoa\Desktop\Intro_Micro\Ejercicios en clase\matriz8x8\matriz8x8.asm</FILE><LINE>82</LINE></loop1>
+  <confd1><FILE>C:\Users\hugoa\Desktop\Intro_Micro\Ejercicios en clase\matriz8x8\matriz8x8.asm</FILE><LINE>114</LINE></confd1>
+  <ver><FILE>C:\Users\hugoa\Desktop\Intro_Micro\Ejercicios en clase\matriz8x8\matriz8x8.asm</FILE><LINE>148</LINE></ver>
+  <fin><FILE>C:\Users\hugoa\Desktop\Intro_Micro\Ejercicios en clase\matriz8x8\matriz8x8.asm</FILE><LINE>79</LINE></fin>
+  <loop2><FILE>C:\Users\hugoa\Desktop\Intro_Micro\Ejercicios en clase\matriz8x8\matriz8x8.asm</FILE><LINE>90</LINE></loop2>
+  <termina><FILE>C:\Users\hugoa\Desktop\Intro_Micro\Ejercicios en clase\matriz8x8\matriz8x8.asm</FILE><LINE>111</LINE></termina>
+  <loop3><FILE>C:\Users\hugoa\Desktop\Intro_Micro\Ejercicios en clase\matriz8x8\matriz8x8.asm</FILE><LINE>98</LINE></loop3>
+  <loop4><FILE>C:\Users\hugoa\Desktop\Intro_Micro\Ejercicios en clase\matriz8x8\matriz8x8.asm</FILE><LINE>106</LINE></loop4>
+  <confd2><FILE>C:\Users\hugoa\Desktop\Intro_Micro\Ejercicios en clase\matriz8x8\matriz8x8.asm</FILE><LINE>127</LINE></confd2>
+  <termina2><FILE>C:\Users\hugoa\Desktop\Intro_Micro\Ejercicios en clase\matriz8x8\matriz8x8.asm</FILE><LINE>145</LINE></termina2>
+  <confd3><FILE>C:\Users\hugoa\Desktop\Intro_Micro\Ejercicios en clase\matriz8x8\matriz8x8.asm</FILE><LINE>134</LINE></confd3>
+  <mover><FILE>C:\Users\hugoa\Desktop\Intro_Micro\Ejercicios en clase\matriz8x8\matriz8x8.asm</FILE><LINE>141</LINE></mover>
+  <comp1><FILE>C:\Users\hugoa\Desktop\Intro_Micro\Ejercicios en clase\matriz8x8\matriz8x8.asm</FILE><LINE>157</LINE></comp1>
+  <termina3><FILE>C:\Users\hugoa\Desktop\Intro_Micro\Ejercicios en clase\matriz8x8\matriz8x8.asm</FILE><LINE>175</LINE></termina3>
+  <comp2><FILE>C:\Users\hugoa\Desktop\Intro_Micro\Ejercicios en clase\matriz8x8\matriz8x8.asm</FILE><LINE>164</LINE></comp2>
+  <comp3><FILE>C:\Users\hugoa\Desktop\Intro_Micro\Ejercicios en clase\matriz8x8\matriz8x8.asm</FILE><LINE>171</LINE></comp3>
+ </LABELS>
+</ASSEMBLER_INFO>

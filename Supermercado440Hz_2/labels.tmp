@@ -1,0 +1,44 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.42</VERSION>
+ <DEVICE>ATmega8535</DEVICE>
+ <WORKING_DIR>C:\Users\hugoa\Desktop\Intro_Micro\Ejercicios en clase\Supermercado440Hz_2</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes</DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\hugoa\Desktop\Intro_Micro\Ejercicios en clase\Supermercado440Hz_2\Supermercado440Hz_2.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes\m8535def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\hugoa\Desktop\Intro_Micro\Ejercicios en clase\Supermercado440Hz_2\Supermercado440Hz_2.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>C:\Users\hugoa\Desktop\Intro_Micro\Ejercicios en clase\Supermercado440Hz_2\Supermercado440Hz_2.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>C:\Users\hugoa\Desktop\Intro_Micro\Ejercicios en clase\Supermercado440Hz_2\Supermercado440Hz_2.map</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <main><FILE>C:\Users\hugoa\Desktop\Intro_Micro\Ejercicios en clase\Supermercado440Hz_2\Supermercado440Hz_2.asm</FILE><LINE>14</LINE></main>
+  <tiempo><FILE>C:\Users\hugoa\Desktop\Intro_Micro\Ejercicios en clase\Supermercado440Hz_2\Supermercado440Hz_2.asm</FILE><LINE>98</LINE></tiempo>
+  <cuenta1><FILE>C:\Users\hugoa\Desktop\Intro_Micro\Ejercicios en clase\Supermercado440Hz_2\Supermercado440Hz_2.asm</FILE><LINE>106</LINE></cuenta1>
+  <EEPROM_read><FILE>C:\Users\hugoa\Desktop\Intro_Micro\Ejercicios en clase\Supermercado440Hz_2\Supermercado440Hz_2.asm</FILE><LINE>128</LINE></EEPROM_read>
+  <limpia><FILE>C:\Users\hugoa\Desktop\Intro_Micro\Ejercicios en clase\Supermercado440Hz_2\Supermercado440Hz_2.asm</FILE><LINE>63</LINE></limpia>
+  <loop><FILE>C:\Users\hugoa\Desktop\Intro_Micro\Ejercicios en clase\Supermercado440Hz_2\Supermercado440Hz_2.asm</FILE><LINE>65</LINE></loop>
+  <barre><FILE>C:\Users\hugoa\Desktop\Intro_Micro\Ejercicios en clase\Supermercado440Hz_2\Supermercado440Hz_2.asm</FILE><LINE>136</LINE></barre>
+  <deco><FILE>C:\Users\hugoa\Desktop\Intro_Micro\Ejercicios en clase\Supermercado440Hz_2\Supermercado440Hz_2.asm</FILE><LINE>154</LINE></deco>
+  <activa><FILE>C:\Users\hugoa\Desktop\Intro_Micro\Ejercicios en clase\Supermercado440Hz_2\Supermercado440Hz_2.asm</FILE><LINE>79</LINE></activa>
+  <sigue><FILE>C:\Users\hugoa\Desktop\Intro_Micro\Ejercicios en clase\Supermercado440Hz_2\Supermercado440Hz_2.asm</FILE><LINE>77</LINE></sigue>
+  <incre><FILE>C:\Users\hugoa\Desktop\Intro_Micro\Ejercicios en clase\Supermercado440Hz_2\Supermercado440Hz_2.asm</FILE><LINE>84</LINE></incre>
+  <escr><FILE>C:\Users\hugoa\Desktop\Intro_Micro\Ejercicios en clase\Supermercado440Hz_2\Supermercado440Hz_2.asm</FILE><LINE>86</LINE></escr>
+  <EEPROM_write><FILE>C:\Users\hugoa\Desktop\Intro_Micro\Ejercicios en clase\Supermercado440Hz_2\Supermercado440Hz_2.asm</FILE><LINE>119</LINE></EEPROM_write>
+  <sal><FILE>C:\Users\hugoa\Desktop\Intro_Micro\Ejercicios en clase\Supermercado440Hz_2\Supermercado440Hz_2.asm</FILE><LINE>117</LINE></sal>
+  <sun><FILE>C:\Users\hugoa\Desktop\Intro_Micro\Ejercicios en clase\Supermercado440Hz_2\Supermercado440Hz_2.asm</FILE><LINE>142</LINE></sun>
+  <sdo><FILE>C:\Users\hugoa\Desktop\Intro_Micro\Ejercicios en clase\Supermercado440Hz_2\Supermercado440Hz_2.asm</FILE><LINE>144</LINE></sdo>
+  <nvo><FILE>C:\Users\hugoa\Desktop\Intro_Micro\Ejercicios en clase\Supermercado440Hz_2\Supermercado440Hz_2.asm</FILE><LINE>150</LINE></nvo>
+  <salir><FILE>C:\Users\hugoa\Desktop\Intro_Micro\Ejercicios en clase\Supermercado440Hz_2\Supermercado440Hz_2.asm</FILE><LINE>148</LINE></salir>
+  <decen><FILE>C:\Users\hugoa\Desktop\Intro_Micro\Ejercicios en clase\Supermercado440Hz_2\Supermercado440Hz_2.asm</FILE><LINE>160</LINE></decen>
+  <dire><FILE>C:\Users\hugoa\Desktop\Intro_Micro\Ejercicios en clase\Supermercado440Hz_2\Supermercado440Hz_2.asm</FILE><LINE>174</LINE></dire>
+  <multi><FILE>C:\Users\hugoa\Desktop\Intro_Micro\Ejercicios en clase\Supermercado440Hz_2\Supermercado440Hz_2.asm</FILE><LINE>164</LINE></multi>
+ </LABELS>
+</ASSEMBLER_INFO>

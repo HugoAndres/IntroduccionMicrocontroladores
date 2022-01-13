@@ -1,0 +1,37 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.42</VERSION>
+ <DEVICE>ATmega8535</DEVICE>
+ <WORKING_DIR>C:\Users\hugoa\Desktop\Intro_Micro\Ejercicios en clase\decretraso</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes</DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\hugoa\Desktop\Intro_Micro\Ejercicios en clase\decretraso\decretraso.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes\m8535def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\hugoa\Desktop\Intro_Micro\Ejercicios en clase\decretraso\decretraso.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>C:\Users\hugoa\Desktop\Intro_Micro\Ejercicios en clase\decretraso\decretraso.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>C:\Users\hugoa\Desktop\Intro_Micro\Ejercicios en clase\decretraso\decretraso.map</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <cuatro><FILE>C:\Users\hugoa\Desktop\Intro_Micro\Ejercicios en clase\decretraso\decretraso.asm</FILE><LINE>16</LINE></cuatro>
+  <D0><FILE>C:\Users\hugoa\Desktop\Intro_Micro\Ejercicios en clase\decretraso\decretraso.asm</FILE><LINE>63</LINE></D0>
+  <D1><FILE>C:\Users\hugoa\Desktop\Intro_Micro\Ejercicios en clase\decretraso\decretraso.asm</FILE><LINE>66</LINE></D1>
+  <D2><FILE>C:\Users\hugoa\Desktop\Intro_Micro\Ejercicios en clase\decretraso\decretraso.asm</FILE><LINE>69</LINE></D2>
+  <D3><FILE>C:\Users\hugoa\Desktop\Intro_Micro\Ejercicios en clase\decretraso\decretraso.asm</FILE><LINE>72</LINE></D3>
+  <D4><FILE>C:\Users\hugoa\Desktop\Intro_Micro\Ejercicios en clase\decretraso\decretraso.asm</FILE><LINE>75</LINE></D4>
+  <D5><FILE>C:\Users\hugoa\Desktop\Intro_Micro\Ejercicios en clase\decretraso\decretraso.asm</FILE><LINE>78</LINE></D5>
+  <D6><FILE>C:\Users\hugoa\Desktop\Intro_Micro\Ejercicios en clase\decretraso\decretraso.asm</FILE><LINE>81</LINE></D6>
+  <D7><FILE>C:\Users\hugoa\Desktop\Intro_Micro\Ejercicios en clase\decretraso\decretraso.asm</FILE><LINE>84</LINE></D7>
+  <D8><FILE>C:\Users\hugoa\Desktop\Intro_Micro\Ejercicios en clase\decretraso\decretraso.asm</FILE><LINE>87</LINE></D8>
+  <D9><FILE>C:\Users\hugoa\Desktop\Intro_Micro\Ejercicios en clase\decretraso\decretraso.asm</FILE><LINE>90</LINE></D9>
+  <reinicio><FILE>C:\Users\hugoa\Desktop\Intro_Micro\Ejercicios en clase\decretraso\decretraso.asm</FILE><LINE>94</LINE></reinicio>
+  <retardo><FILE>C:\Users\hugoa\Desktop\Intro_Micro\Ejercicios en clase\decretraso\decretraso.asm</FILE><LINE>45</LINE></retardo>
+  <L1><FILE>C:\Users\hugoa\Desktop\Intro_Micro\Ejercicios en clase\decretraso\decretraso.asm</FILE><LINE>54</LINE></L1>
+ </LABELS>
+</ASSEMBLER_INFO>

@@ -1,0 +1,28 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.42</VERSION>
+ <DEVICE>ATmega8535</DEVICE>
+ <WORKING_DIR>C:\Users\hugoa\Desktop\Intro_Micro\Ejercicios en clase\Equipo10KHz</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes</DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\hugoa\Desktop\Intro_Micro\Ejercicios en clase\Equipo10KHz\Equipo500Hz.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes\m8535def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\hugoa\Desktop\Intro_Micro\Ejercicios en clase\Equipo10KHz\Equipo500Hz.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>C:\Users\hugoa\Desktop\Intro_Micro\Ejercicios en clase\Equipo10KHz\Equipo500Hz.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>C:\Users\hugoa\Desktop\Intro_Micro\Ejercicios en clase\Equipo10KHz\Equipo500Hz.map</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <reset><FILE>C:\Users\hugoa\Desktop\Intro_Micro\Ejercicios en clase\Equipo10KHz\Equipo500Hz.asm</FILE><LINE>6</LINE></reset>
+  <main><FILE>C:\Users\hugoa\Desktop\Intro_Micro\Ejercicios en clase\Equipo10KHz\Equipo500Hz.asm</FILE><LINE>10</LINE></main>
+  <onda><FILE>C:\Users\hugoa\Desktop\Intro_Micro\Ejercicios en clase\Equipo10KHz\Equipo500Hz.asm</FILE><LINE>27</LINE></onda>
+  <config><FILE>C:\Users\hugoa\Desktop\Intro_Micro\Ejercicios en clase\Equipo10KHz\Equipo500Hz.asm</FILE><LINE>15</LINE></config>
+  <fin><FILE>C:\Users\hugoa\Desktop\Intro_Micro\Ejercicios en clase\Equipo10KHz\Equipo500Hz.asm</FILE><LINE>25</LINE></fin>
+ </LABELS>
+</ASSEMBLER_INFO>
